@@ -1,0 +1,6 @@
+{
+  "minVersion": "0.0.0",
+  "latestVersion": "1.0.0",
+  "dialogTitle": "Update required",
+  "message": "This build is no longer supported. Install version 1.0.0 or newer. Get the update from the same store or marketplace where you purchased Chatbot Factory."
+}
